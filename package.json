@@ -1,0 +1,8 @@
+{
+  "name": "iss-controls",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/infrasite/iss-controls.git",
+  "author": "David Chicaiza <david.chicaiza@kiwi.com>",
+  "license": "MIT"
+}
